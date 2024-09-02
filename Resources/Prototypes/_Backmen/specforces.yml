@@ -46,7 +46,7 @@
 - type: specForceTeam
   id: DeathSquad
   specForceName: spec-forces-system-deathsquad-name
-  shuttlePath: Maps/Backmen/Shuttles/SpecForces/Invincible.yml
+  shuttlePath: Maps/Backmen/Shuttles/SpecForces/Vindicator.yml
   spawnMarker: MarkerSpecforce
   maxRolesAmount: 6
   guaranteedSpawn:
